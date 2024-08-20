@@ -1,0 +1,4 @@
+github.com/alextanhongpin/base62 v0.0.0-20181112043535-204cf116eaa9 h1:pzEZ91ZEwxRxzXxaQQz2CQpjjQaqQVtPN1qn+N6SyjY=
+github.com/alextanhongpin/base62 v0.0.0-20181112043535-204cf116eaa9/go.mod h1:HAkSP6SOWM5D64M8tTKZHcsBsLirOIgk4kGdbb/O9Jw=
+github.com/deatil/go-encoding v1.0.2007 h1:Z4K4SzAQQmNLuQzvFYdS0G/BUGxJPHD4HotvfJFIr6k=
+github.com/deatil/go-encoding v1.0.2007/go.mod h1:zwGNfO4DySUkTTgTDK4giY0kJzb2lHZSSS+ve5I2uX4=
